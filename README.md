@@ -5,40 +5,40 @@
 The following links are used to check for vulnerabilities in different IoT systems using Criminal IP. These queries are specifically tailored for each system.
  
 ### Assa Abloy ARX
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=Server%3A+standalone.server)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=Server%3A+standalone.server)
  
 ### Lenel OnGuard
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=Lenel+Embedded+Web+Server%2F1.0)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=Lenel+Embedded+Web+Server%2F1.0)
  
 ### Vanderbilt
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=SPC4300)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=SPC4300)
  
 ### Home Assistant
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=Home+Assistant)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=Home+Assistant)
  
 ### HomeMatic
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=HomeMatic)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=HomeMatic)
  
 ### IP-Symcon Webfront
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=IP-Symcon+Webfront)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=IP-Symcon+Webfront)
  
 ### Plugwise
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=Plugwise)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=Plugwise)
  
 ### OpenHAB
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=title%3A+OpenHAB)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=title%3A+OpenHAB)
  
 ### FHEM
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=X-FHEM-csrfToken)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=X-FHEM-csrfToken)
  
 ### HomeSeer
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=HomeSeer)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=HomeSeer)
  
 ### SmartThings
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=SmartThings)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=SmartThings)
  
 ### Lutron
-[Check Vulnerability](https://www.criminalip.io/ko/asset/search?query=Lutron)
+[Check Vulnerability](https://www.criminalip.io/asset/search?query=Lutron)
  
 ## IoT Vulnerability Query Keywords
  
