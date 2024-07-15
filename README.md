@@ -1,6 +1,6 @@
 # Vulnerability Query Links for Various IoT Systems
  
-![IoT Collector](IoT_Collector.png)
+<img src="IoT_Collector.png" alt="IoT Collector" width="400">
  
 The following links are used to check for vulnerabilities in different IoT systems using Criminal IP. These queries are specifically tailored for each system.
  
